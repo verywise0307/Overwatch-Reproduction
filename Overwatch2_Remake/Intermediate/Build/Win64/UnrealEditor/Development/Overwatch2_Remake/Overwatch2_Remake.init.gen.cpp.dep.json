@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\yena\\desktop\\overwatch reproduction\\overwatch2_remake\\intermediate\\build\\win64\\unrealeditor\\inc\\overwatch2_remake\\uht\\overwatch2_remake.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\yena\\desktop\\overwatch reproduction\\overwatch2_remake\\intermediate\\build\\win64\\overwatch2_remakeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\yena\\desktop\\overwatch reproduction\\overwatch2_remake\\intermediate\\build\\win64\\unrealeditor\\development\\overwatch2_remake\\definitions.overwatch2_remake.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

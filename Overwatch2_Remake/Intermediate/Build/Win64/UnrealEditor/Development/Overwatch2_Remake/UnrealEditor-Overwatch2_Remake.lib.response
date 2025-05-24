@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Overwatch2_Remake.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\yena\Desktop\Overwatch Reproduction\Overwatch2_Remake\Intermediate\Build\Win64\Overwatch2_RemakeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\yena\Desktop\Overwatch Reproduction\Overwatch2_Remake\Intermediate\Build\Win64\UnrealEditor\Development\Overwatch2_Remake\Overwatch2_Remake.init.gen.cpp.obj"
+"C:\Users\yena\Desktop\Overwatch Reproduction\Overwatch2_Remake\Intermediate\Build\Win64\UnrealEditor\Development\Overwatch2_Remake\Overwatch2_RemakeCharacter.gen.cpp.obj"
+"C:\Users\yena\Desktop\Overwatch Reproduction\Overwatch2_Remake\Intermediate\Build\Win64\UnrealEditor\Development\Overwatch2_Remake\Overwatch2_RemakeGameMode.gen.cpp.obj"
+"C:\Users\yena\Desktop\Overwatch Reproduction\Overwatch2_Remake\Intermediate\Build\Win64\UnrealEditor\Development\Overwatch2_Remake\Overwatch2_RemakeProjectile.gen.cpp.obj"
+"C:\Users\yena\Desktop\Overwatch Reproduction\Overwatch2_Remake\Intermediate\Build\Win64\UnrealEditor\Development\Overwatch2_Remake\TP_PickUpComponent.gen.cpp.obj"
+"C:\Users\yena\Desktop\Overwatch Reproduction\Overwatch2_Remake\Intermediate\Build\Win64\UnrealEditor\Development\Overwatch2_Remake\TP_WeaponComponent.gen.cpp.obj"
+"C:\Users\yena\Desktop\Overwatch Reproduction\Overwatch2_Remake\Intermediate\Build\Win64\UnrealEditor\Development\Overwatch2_Remake\Overwatch2_Remake.cpp.obj"
+"C:\Users\yena\Desktop\Overwatch Reproduction\Overwatch2_Remake\Intermediate\Build\Win64\UnrealEditor\Development\Overwatch2_Remake\Overwatch2_RemakeCharacter.cpp.obj"
+"C:\Users\yena\Desktop\Overwatch Reproduction\Overwatch2_Remake\Intermediate\Build\Win64\UnrealEditor\Development\Overwatch2_Remake\Overwatch2_RemakeGameMode.cpp.obj"
+"C:\Users\yena\Desktop\Overwatch Reproduction\Overwatch2_Remake\Intermediate\Build\Win64\UnrealEditor\Development\Overwatch2_Remake\Overwatch2_RemakeProjectile.cpp.obj"
+"C:\Users\yena\Desktop\Overwatch Reproduction\Overwatch2_Remake\Intermediate\Build\Win64\UnrealEditor\Development\Overwatch2_Remake\TP_PickUpComponent.cpp.obj"
+"C:\Users\yena\Desktop\Overwatch Reproduction\Overwatch2_Remake\Intermediate\Build\Win64\UnrealEditor\Development\Overwatch2_Remake\TP_WeaponComponent.cpp.obj"
+"C:\Users\yena\Desktop\Overwatch Reproduction\Overwatch2_Remake\Intermediate\Build\Win64\UnrealEditor\Development\Overwatch2_Remake\Default.rc2.res"
+/OUT:"C:\Users\yena\Desktop\Overwatch Reproduction\Overwatch2_Remake\Intermediate\Build\Win64\UnrealEditor\Development\Overwatch2_Remake\UnrealEditor-Overwatch2_Remake.lib"

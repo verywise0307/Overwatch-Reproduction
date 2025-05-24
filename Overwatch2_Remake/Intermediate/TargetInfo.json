@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Overwatch2_Remake",
+			"Path": "C:\\Users\\yena\\Desktop\\Overwatch Reproduction\\Overwatch2_Remake\\Source\\Overwatch2_Remake.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Overwatch2_RemakeEditor",
+			"Path": "C:\\Users\\yena\\Desktop\\Overwatch Reproduction\\Overwatch2_Remake\\Source\\Overwatch2_RemakeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

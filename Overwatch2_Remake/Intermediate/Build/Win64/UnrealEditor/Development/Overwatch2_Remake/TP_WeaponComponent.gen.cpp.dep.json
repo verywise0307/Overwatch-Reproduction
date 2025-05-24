@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\yena\\desktop\\overwatch reproduction\\overwatch2_remake\\intermediate\\build\\win64\\unrealeditor\\inc\\overwatch2_remake\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\yena\\desktop\\overwatch reproduction\\overwatch2_remake\\intermediate\\build\\win64\\overwatch2_remakeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\yena\\desktop\\overwatch reproduction\\overwatch2_remake\\intermediate\\build\\win64\\unrealeditor\\development\\overwatch2_remake\\definitions.overwatch2_remake.h",
+            "c:\\users\\yena\\desktop\\overwatch reproduction\\overwatch2_remake\\source\\overwatch2_remake\\tp_weaponcomponent.h",
+            "c:\\users\\yena\\desktop\\overwatch reproduction\\overwatch2_remake\\intermediate\\build\\win64\\unrealeditor\\inc\\overwatch2_remake\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
